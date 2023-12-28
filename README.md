@@ -1,5 +1,5 @@
 
-# Discord ImageBot
+# Discord Gallery Bot
 
 ## Overview
 Discord ImageBot is a versatile bot that allows users to easily upload, save, and retrieve images in a Discord server. It provides a simple interface to manage and access images based on user-provided names.
